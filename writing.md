@@ -1,6 +1,6 @@
 ---
 title: Papers and Writing
-description: 
+description: ""
 permalink: writing.html
 ---
 
