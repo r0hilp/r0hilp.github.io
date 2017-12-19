@@ -1,6 +1,4 @@
 ---
-title: Papers and Writing
-description: ~
 permalink: writing.html
 ---
 
