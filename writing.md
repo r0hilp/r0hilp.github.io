@@ -9,4 +9,12 @@ permalink: writing.html
 2. J.T. Geneson, Rohil Prasad and Jonathan Tidor. _Bounding sequence extremal functions with formations_, 2013, Electr. J. Comb. 21(3): P3.24 (2014); [arXiv:1308.3810](https://arxiv.org/abs/1308.3810). 
 
 ## Expositions/Course Notes:
-Just switched to a new computer so these are scattered. Coming soon!
+I make no promises about the correctness or completeness of these articles. Of course, any errors that do pop up are 100% attributable to myself, while anything enlightening is 100% attributable to the course instructor or references given in the article. 
+
+1. [The Grothendieck Spectral Sequence](https://r0hilp.github.io/assets/docs/grothendieck_ss.pdf). These were notes for a talk given at the Harvard Undergraduate Topology Seminar in Fall 2017. It constructs the Grothendieck spectral sequence and gives an application in constructing dualizing sheaves for projective varieties. 
+
+2. [An Introduction to Derived Functors](https://r0hilp.github.io/assets/docs/tutorial_derived_functors.pdf). This was my final paper for Harvard's Spring 2016 tutorial on category theory. 
+
+3. [The Book of Fibrations: An Introduction to the Serre Spectral Sequence](https://r0hilp.github.io/assets/docs/serre_spectral_sequence.pdf). This was my final paper for Harvard's Math 231a in Fall 2015. It constructs the Serre spectral sequence and does a bunch of the diagram chases, as well as some computations. 
+
+4. [Spheres on Spheres: Adams Operations and the Hopf Invariant](https://r0hilp.github.io/assets/docs/adams_operations.pdf). This was my final paper for Harvard's Math 231br in Spring 2016. It details the Adams-Atiyah proof using Adams operations on K-Theory of the Hopf invariant one problem. 
