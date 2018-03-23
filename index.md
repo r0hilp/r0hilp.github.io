@@ -1,7 +1,7 @@
 ---
 ---
 
-<img src="assets/imgs/me.jpg" alt="Picture of me" style="float:left">
+<img src="assets/imgs/me.jpg" alt="Picture of me" style="float:center;padding-bottom:50px;height:270px;width:360px"> 
 
 Hi, I'm Rohil, a senior undergraduate studying mathematics at Harvard University. I'm interested in low-dimensional topology, gauge theory, and geometric analysis. 
 
