@@ -11,6 +11,8 @@ permalink: writing.html
 ## Expositions/Course Notes:
 Here are some scattered writings/notes, posted in case anyone can get some use out of them. Of course, any errors are mine and mine alone. 
 
+1. [The Seiberg-Witten Invariant of a Homology S^1 x S^3](https://r0hilp.github.io/assets/docs/harvard_thesis.pdf). My senior undergraduate thesis on Seiberg-Witten theory. 
+
 1. [The Grothendieck Spectral Sequence](https://r0hilp.github.io/assets/docs/grothendieck_ss.pdf). These were notes for a talk given at the Harvard Undergraduate Topology Seminar in Fall 2017. It constructs the Grothendieck spectral sequence and gives an application in constructing dualizing sheaves for projective varieties. 
 
 2. [An Introduction to Derived Functors](https://r0hilp.github.io/assets/docs/tutorial_derived_functors.pdf). This was my final paper for Harvard's Spring 2016 tutorial on category theory. 
