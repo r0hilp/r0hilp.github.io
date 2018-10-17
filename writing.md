@@ -1,6 +1,6 @@
 ---
 title: Rohil Prasad
-description: "Current mood: codimension zero"
+description: "Current location: Fourier space"
 permalink: writing.html
 ---
 
@@ -9,7 +9,7 @@ permalink: writing.html
 2. J.T. Geneson, Rohil Prasad and Jonathan Tidor. _Bounding sequence extremal functions with formations_, 2013, Electr. J. Comb. 21(3): P3.24 (2014); [arXiv:1308.3810](https://arxiv.org/abs/1308.3810). 
 
 ## Expositions/Course Notes:
-I make no promises about the correctness or completeness of these articles. Of course, any errors that do pop up are 100% attributable to myself, while anything enlightening is 100% attributable to the course instructor or references given in the article. 
+Here are some scattered writings/notes, posted in case anyone can get some use out of them. Of course, any errors are mine and mine alone. 
 
 1. [The Grothendieck Spectral Sequence](https://r0hilp.github.io/assets/docs/grothendieck_ss.pdf). These were notes for a talk given at the Harvard Undergraduate Topology Seminar in Fall 2017. It constructs the Grothendieck spectral sequence and gives an application in constructing dualizing sheaves for projective varieties. 
 
