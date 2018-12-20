@@ -1,6 +1,6 @@
 ---
 title: Rohil Prasad
-description: "Current location: Fourier space"
+description: "Current location: A Bubble"
 permalink: writing.html
 ---
 
