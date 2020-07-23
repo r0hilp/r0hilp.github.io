@@ -5,8 +5,9 @@ permalink: writing.html
 ---
 
 ## Papers:
-1. Ethan Alwaise, Shuli Chen, Alexander Clifton, Rebecca Patrias, Rohil Prasad, Madeline Shinners and Albert Zheng. _Coincidences among skew stable and dual stable Grothendieck polynomials_, 2016, Involve 11(1): 143-167 (2018); [arXiv:1609.06171](https://arxiv.org/abs/1609.06171).
-2. J.T. Geneson, Rohil Prasad and Jonathan Tidor. _Bounding sequence extremal functions with formations_, 2013, Electr. J. Comb. 21(3): P3.24 (2014); [arXiv:1308.3810](https://arxiv.org/abs/1308.3810). 
+1. Pseudoholomorphic curves and uniquely ergodic vector fields (in progress, draft available on request).
+2. Ethan Alwaise, Shuli Chen, Alexander Clifton, Rebecca Patrias, Rohil Prasad, Madeline Shinners and Albert Zheng. _Coincidences among skew stable and dual stable Grothendieck polynomials_, 2016, Involve 11(1): 143-167 (2018); [arXiv:1609.06171](https://arxiv.org/abs/1609.06171) (with E. Alwaise, S. Chen, A. Clifton, R. Patrias, M. Shinners and A. Zheng).
+3. J.T. Geneson, Rohil Prasad and Jonathan Tidor. _Bounding sequence extremal functions with formations_, 2013, Electr. J. Comb. 21(3): P3.24 (2014); [arXiv:1308.3810](https://arxiv.org/abs/1308.3810) (with J.T. Geneson and J. Tidor). 
 
 ## Expositions/Course Notes:
 Here are some scattered writings/notes, posted in case anyone can get some use out of them. Of course, any errors are mine and mine alone. 
