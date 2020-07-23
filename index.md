@@ -5,4 +5,4 @@
 
 Hi, I'm Rohil, a third-year PhD student studying mathematics at [Princeton](https://www.math.princeton.edu/people/rohil-prasad). I'm interested in symplectic geometry, Hamiltonian dynamics, gauge theory and low-dimensional topology. My advisor is [Helmut Hofer](https://www.math.ias.edu/people/faculty/hofer). 
 
-You can reach me at rrprasad \[magical email symbol goes here\] princeton.edu. 
+You can reach me at rrprasad \[email symbol goes here\] princeton.edu. 

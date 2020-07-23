@@ -1,6 +1,5 @@
 ---
 title: Rohil Prasad
-description: "Current location: A Bubble"
 permalink: writing.html
 ---
 
