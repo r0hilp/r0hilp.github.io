@@ -4,7 +4,7 @@ permalink: writing.html
 ---
 
 ## Papers:
-1. Pseudoholomorphic curves and uniquely ergodic vector fields (in preparation, draft available on request).
+1. Invariant probability measures from pseudoholomorphic curves (in preparation).
 
 ## Undergraduate Research:
 1. Ethan Alwaise, Shuli Chen, Alexander Clifton, Rebecca Patrias, Rohil Prasad, Madeline Shinners and Albert Zheng. _Coincidences among skew stable and dual stable Grothendieck polynomials_, 2016, Involve 11(1): 143-167 (2018); [arXiv:1609.06171](https://arxiv.org/abs/1609.06171) (with E. Alwaise, S. Chen, A. Clifton, R. Patrias, M. Shinners and A. Zheng).
