@@ -4,7 +4,7 @@ permalink: writing.html
 ---
 
 ## Papers:
-1. _The smooth closing lemma for area preserving surface diffeomorphisms_ (Joint with D. Cristofaro-Gardiner and B. Zhang)<br>[arXiv:2110.02925](https://arxiv.org/abs/2110.02925)
+1. _The smooth closing lemma for area preserving surface diffeomorphisms_ (Joint with [D. Cristofaro-Gardiner](https://dancg.sites.ucsc.edu/) and [B. Zhang](https://web.math.princeton.edu/~bz/))<br>[arXiv:2110.02925](https://arxiv.org/abs/2110.02925)
 2. _Invariant probability measures from pseudoholomorphic curves II_<br>[arXiv:2109.00106](https://arxiv.org/abs/2109.00106)
 3. _Invariant probability measures from pseudoholomorphic curves I_<br>[arXiv:2109.00102](https://arxiv.org/abs/2109.00102)
 
