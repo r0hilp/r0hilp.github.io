@@ -3,6 +3,16 @@ title: Rohil Prasad
 permalink: writing.html
 ---
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BY606CKRSC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-BY606CKRSC');
+</script>
+
 ## Papers:
 1. _The smooth closing lemma for area preserving surface diffeomorphisms_ (Joint with [D. Cristofaro-Gardiner](https://dancg.sites.ucsc.edu/) and [B. Zhang](https://web.math.princeton.edu/~bz/))<br>[arXiv:2110.02925](https://arxiv.org/abs/2110.02925)
 2. _Invariant probability measures from pseudoholomorphic curves II_<br>[arXiv:2109.00106](https://arxiv.org/abs/2109.00106)
