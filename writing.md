@@ -14,9 +14,10 @@ permalink: writing.html
 </script>
 
 ## Papers:
-1. _The smooth closing lemma for area preserving surface diffeomorphisms_ (Joint with [D. Cristofaro-Gardiner](https://dancg.sites.ucsc.edu/) and [B. Zhang](https://web.math.princeton.edu/~bz/))<br>[arXiv:2110.02925](https://arxiv.org/abs/2110.02925)
-2. _Invariant probability measures from pseudoholomorphic curves II_<br>[arXiv:2109.00106](https://arxiv.org/abs/2109.00106)<br>Submitted.
-3. _Invariant probability measures from pseudoholomorphic curves I_<br>[arXiv:2109.00102](https://arxiv.org/abs/2109.00102)<br>Submitted.
+1. _A note on the existence of U-cyclic elements in periodic Floer homology_ (Joint with [D. Cristofaro-Gardiner](https://dancg.sites.ucsc.edu/), [D. Pomerleano](https://danielpomerleano.com), and [B. Zhang](https://web.math.princeton.edu/~bz/))<br>[arXiv:2110.13844](https://arxiv.org/abs/2110.13844)
+2. _The smooth closing lemma for area preserving surface diffeomorphisms_ (Joint with [D. Cristofaro-Gardiner](https://dancg.sites.ucsc.edu/) and [B. Zhang](https://web.math.princeton.edu/~bz/))<br>[arXiv:2110.02925](https://arxiv.org/abs/2110.02925)
+3. _Invariant probability measures from pseudoholomorphic curves II_<br>[arXiv:2109.00106](https://arxiv.org/abs/2109.00106)<br>Submitted.
+4. _Invariant probability measures from pseudoholomorphic curves I_<br>[arXiv:2109.00102](https://arxiv.org/abs/2109.00102)<br>Submitted.
 
 ## Undergraduate Research:
 1. _Coincidences among skew stable and dual stable Grothendieck polynomials_ (Joint with E. Alwaise, S. Chen, A. Clifton, R. Patrias, M. Shinners and A. Zheng)<br>[Involve 11(1): 143-167 (2018)](https://projecteuclid.org/journals/involve-a-journal-of-mathematics/volume-11/issue-1/Coincidences-among-skew-stable-and-dual-stable-Grothendieck-polynomials/10.2140/involve.2018.11.143.short)<br>[arXiv:1609.06171](https://arxiv.org/abs/1609.06171)
